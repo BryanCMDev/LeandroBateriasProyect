@@ -1,0 +1,6 @@
+{
+  "name": "Leandro Baterías",
+  "description": "Aplicación premium de comercio y gestión para Leandro Baterías, incluyendo catálogo, pago seguro, control de inventario y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
