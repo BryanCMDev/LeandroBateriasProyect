@@ -41,3 +41,4 @@ Haz `Ctrl + Clic` en el enlace que aparezca en consola (usualmente http://localh
 
 ## 📄 Agentes de IA
 Este proyecto incluye instrucciones preconfiguradas (`AGENTS.md`) para que los asistentes de IA, al momento de seguir programando, comprendan la arquitectura de la base de datos relacional de Supabase y las reglas del negocio automáticamente.
+# AlucinacionIA
